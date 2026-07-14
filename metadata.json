@@ -1,0 +1,6 @@
+{
+  "name": "تقویم شاهنشاهی ایران",
+  "description": "تقویم کامل، مبدل تاریخ، مراجع تاریخی و دایره المعارف جشن های سنتی ایران به صورت کاملاً آفلاین.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
